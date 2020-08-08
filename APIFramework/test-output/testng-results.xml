@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1900" started-at="2020-08-06T16:26:09Z" finished-at="2020-08-06T16:26:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1900" started-at="2020-08-06T16:26:09Z" finished-at="2020-08-06T16:26:11Z">
+      <class name="org.testing.testscripts.DeleteRequestTC">
+        <test-method status="PASS" signature="TC5()[pri:0, instance:org.testing.testscripts.DeleteRequestTC@6973bf95]" name="TC5" duration-ms="41" started-at="2020-08-06T21:56:11Z" finished-at="2020-08-06T21:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+      </class> <!-- org.testing.testscripts.DeleteRequestTC -->
+      <class name="org.testing.testscripts.PutRequestTC">
+        <test-method status="PASS" signature="TC4()[pri:0, instance:org.testing.testscripts.PutRequestTC@47542153]" name="TC4" duration-ms="23" started-at="2020-08-06T21:56:11Z" finished-at="2020-08-06T21:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+      </class> <!-- org.testing.testscripts.PutRequestTC -->
+      <class name="org.testing.testscripts.PatchRequestTC">
+        <test-method status="PASS" signature="TC6()[pri:0, instance:org.testing.testscripts.PatchRequestTC@229d10bd]" name="TC6" duration-ms="40" started-at="2020-08-06T21:56:11Z" finished-at="2020-08-06T21:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6 -->
+      </class> <!-- org.testing.testscripts.PatchRequestTC -->
+      <class name="org.testing.testscripts.PostRequestTC">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:org.testing.testscripts.PostRequestTC@77167fb7]" name="TC1" duration-ms="1722" started-at="2020-08-06T21:56:09Z" finished-at="2020-08-06T21:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+      </class> <!-- org.testing.testscripts.PostRequestTC -->
+      <class name="org.testing.testscripts.GetRequestTC">
+        <test-method status="PASS" signature="TC2()[pri:0, instance:org.testing.testscripts.GetRequestTC@2ddc8ecb]" name="TC2" duration-ms="25" started-at="2020-08-06T21:56:11Z" finished-at="2020-08-06T21:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+      </class> <!-- org.testing.testscripts.GetRequestTC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
